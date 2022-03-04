@@ -473,7 +473,7 @@ button.navbar-toggler {
 .talk-to-section {
     position: fixed;
     right: 100px;
-    bottom: 100px;
+    bottom: 70px;
     z-index: 9999;
 }
 
@@ -537,7 +537,7 @@ RESPONSIVENESS
 
     .talk-to-section {
         right: 30px !important;
-        bottom: 50px !important;
+        bottom: 30px !important;
     }
 
     .welcome-stage {
